@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>table-alx</title>
+</head>
+<body>
+
+    <table>
+        <tr>
+            <td>No.</td>
+            <td>NAMA</td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td>ALX</td>
+        </tr>
+    </table>
+
+</body>
+</html>
